@@ -2,11 +2,11 @@
  
 This repository contains exploratory work performed using the LEGO Audi Technic kit. The repo includes the following:
 
-Pybricks Scripts: Python scripts from Pybricks to ran on the Technic Hub
-Python Logging Scripts: Python scripts to be ran locally for logging data from the Technic hub
-Matlab Files: Post processing scripts to be ran in Matlab for data plotting and parameter estimation
-Components: Model(s) of kit components in Simulink, not runnable models
-Models: Model(s) of kit assembly or test harnesses of component models, runnable models
+- Pybricks Scripts: Python scripts from Pybricks to ran on the Technic Hub
+- Python Logging Scripts: Python scripts to be ran locally for logging data from the Technic hub
+- Matlab Files: Post processing scripts to be ran in Matlab for data plotting and parameter estimation
+- Components: Model(s) of kit components in Simulink, not runnable models
+- Models: Model(s) of kit assembly or test harnesses of component models, runnable models
 
 Workflow for this repo, from running test on hub to comparing model to test data is as follows:
 
